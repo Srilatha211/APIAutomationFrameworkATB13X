@@ -1,4 +1,4 @@
-package org.example.endpoints.endpoints;
+package org.example.endpoints;
 
 public class APIConstants {
 

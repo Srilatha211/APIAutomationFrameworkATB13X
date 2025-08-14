@@ -1,4 +1,4 @@
-package org.example.POJO.ResponsePOJO;
+package org.example.POJO.ResponsePOJO.RestfulBooker;
 
 
 import org.example.POJO.RequestPOJO.Booking;

@@ -1,4 +1,4 @@
 package org.example.Test.Resfulbooker.Crud;
 
-public class CreateToken {
+public class TestCreateToken {
 }
